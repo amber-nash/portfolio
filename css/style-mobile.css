@@ -63,6 +63,21 @@
 		font-size: 1em;
 	}
 
+/*About Me Images*/
+	.8u {
+		margin: auto;
+		display: inline-block;
+	}
+	.4u.skel-cell-important {
+		margin: auto;
+		display: inline-block;
+	}
+	.image.personality {
+		float: left;
+		margin-left: 3%;
+		width: 85px;
+		height: 75px;
+	}
 /* Button */
 
 	input[type="button"],
