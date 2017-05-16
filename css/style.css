@@ -1,11 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
 
-/*
-	Twenty by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Basic */
 
@@ -106,6 +101,8 @@
 		padding: 1em 0 1em 2em;
 	}
 
+
+
 /* Section/Article */
 
 	section.special, article.special {
@@ -204,7 +201,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #83d3c9;
+			border-color: #92D0DA;
 		}
 
 	input[type="text"],
@@ -275,6 +272,12 @@
 				width: 100%;
 			}
 
+			.image.personality {
+				width: auto;
+				height: auto;
+				margin-left: 10%;
+				border-radius: 5%;
+			}
 /* Icon */
 
 	.icon {
@@ -331,12 +334,12 @@
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus {
+			.icon.circle.fa-linkedin {
 				background: #db6b67;
 				color: white;
 			}
 
-				.icon.circle.fa-google-plus:hover {
+				.icon.circle.fa-linkedin:hover {
 					background: #df7b77;
 				}
 
@@ -349,14 +352,15 @@
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
-				color: white;
-			}
-
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-file-text-o {
+					background: #A3E4D7;
+					color: white;
 				}
+
+					.icon.circle.fa-file-text-o:hover {
+						background: #A3E4D7;
+					}
+
 
 		.icon.featured {
 			cursor: default;
@@ -531,8 +535,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #92D0DA;
+			border-color: #92D0DA;
 			color: white !important;
 		}
 
@@ -572,22 +576,21 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: white;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: white;
 		}
 
 			.wrapper.style2 .button:hover {
-				background: rgba(255, 255, 255, 0.15) !important;
+				background: #92D0DA !important;
 			}
 
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #83d3c9 !important;
+				color: #92D0DA !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -786,7 +789,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #92D0DA;
 				color: white;
 			}
 
@@ -804,7 +807,7 @@
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../images/connor-vercueil.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -836,14 +839,11 @@
 			#banner .inner header {
 				display: inline-block;
 				border-bottom: solid 2px;
-				border-top: solid 2px;
 				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
 			}
 
 				#banner .inner header h2 {
-					border-bottom: solid 2px;
-					border-top: solid 2px;
 					font-size: 2.5em;
 					font-weight: 900;
 					letter-spacing: 0.2em;
@@ -904,7 +904,7 @@
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("/images/connor-vercueil.");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
