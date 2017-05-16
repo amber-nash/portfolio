@@ -78,6 +78,7 @@
 		width: 85px;
 		height: 75px;
 	}
+
 /* Button */
 
 	input[type="button"],
@@ -192,4 +193,8 @@
 			margin: 1em 0 0 0;
 			padding: 0;
 			border: 0;
+<<<<<<< HEAD
 		}
+=======
+		}
+>>>>>>> 0e9d3d2f87db92a8775e01b4a5c2df2264388d3e
