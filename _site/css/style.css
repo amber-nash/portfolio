@@ -243,8 +243,11 @@
 		position: relative;
 	}
 
+	.image.folio {
+		display: inline-block !important;
+	}
+
 		.image:before {
-			background: url("images/overlay.png");
 			content: '';
 			height: 100%;
 			left: 0;
