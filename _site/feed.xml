@@ -6,94 +6,40 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-
-    <pubDate>Thu, 18 May 2017 15:02:00 -0700</pubDate>
-    <lastBuildDate>Thu, 18 May 2017 15:02:00 -0700</lastBuildDate>
+    <pubDate>Thu, 18 May 2017 20:28:43 -0700</pubDate>
+    <lastBuildDate>Thu, 18 May 2017 20:28:43 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
-        <title>Why I thought Tech Wasn't For Me</title>
-        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/blog/pineapple-supply-co.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus augue. In fringilla nibh ac efficitur blandit. Nullam eu pretium mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur vulputate lacinia tortor, vel ultrices ligula. Etiam hendrerit aliquam tristique. Nulla tincidunt tortor id quam dignissim fermentum.&lt;/p&gt;
-
-&lt;p&gt;Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dictum quam id ultricies dapibus. Donec rutrum pellentesque nisl, in bibendum erat imperdiet et. Maecenas eros lorem, dignissim in eros ut, consequat eleifend ante. Duis leo tortor, porttitor non ex ut, varius consectetur purus. Mauris vel erat risus. Nam convallis, lorem et tempus efficitur, nulla tortor efficitur sapien, ut pretium nisl turpis at purus. Nulla dui risus, suscipit nec tellus ac, aliquam finibus mi. Suspendisse accumsan, nisl a aliquet hendrerit, massa metus volutpat libero, et mollis lectus mauris et justo. Ut vitae est ut ligula sollicitudin blandit. Quisque egestas eleifend tortor, in finibus ex. Donec non orci quis odio porttitor mattis.&lt;/p&gt;
-
-&lt;p&gt;Duis ut blandit lorem. Suspendisse potenti. Donec maximus blandit neque dapibus hendrerit. Praesent dignissim turpis eu nisl varius tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur in volutpat felis. Sed eget neque vel risus fermentum maximus a vel arcu. Vivamus non lorem mattis, vehicula metus eu, pellentesque mauris. Nunc fermentum efficitur justo, et rutrum mi finibus non. Sed vehicula eros id elit elementum rhoncus. Nullam quis tellus vitae metus eleifend pharetra eget interdum nulla. Integer sit amet imperdiet urna.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 May 2017 10:05:23 -0700</pubDate>
-        <link>http://localhost:4000/why-i-thought-tech-wasnt-for-me.html</link>
-        <guid isPermaLink="true">http://localhost:4000/why-i-thought-tech-wasnt-for-me.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>I'm a Woman of Color in Tech</title>
-        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/blog/girl-jamie-brown.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dictum quam id ultricies dapibus. Donec rutrum pellentesque nisl, in bibendum erat imperdiet et. Maecenas eros lorem, dignissim in eros ut, consequat eleifend ante. Duis leo tortor, porttitor non ex ut, varius consectetur purus. Mauris vel erat risus. Nam convallis, lorem et tempus efficitur, nulla tortor efficitur sapien, ut pretium nisl turpis at purus. Nulla dui risus, suscipit nec tellus ac, aliquam finibus mi. Suspendisse accumsan, nisl a aliquet hendrerit, massa metus volutpat libero, et mollis lectus mauris et justo. Ut vitae est ut ligula sollicitudin blandit. Quisque egestas eleifend tortor, in finibus ex. Donec non orci quis odio porttitor mattis.&lt;/p&gt;
-
-&lt;p&gt;Duis ut blandit lorem. Suspendisse potenti. Donec maximus blandit neque dapibus hendrerit. Praesent dignissim turpis eu nisl varius tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur in volutpat felis. Sed eget neque vel risus fermentum maximus a vel arcu. Vivamus non lorem mattis, vehicula metus eu, pellentesque mauris. Nunc fermentum efficitur justo, et rutrum mi finibus non. Sed vehicula eros id elit elementum rhoncus. Nullam quis tellus vitae metus eleifend pharetra eget interdum nulla. Integer sit amet imperdiet urna.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 May 2017 10:05:23 -0700</pubDate>
-        <link>http://localhost:4000/why-i-thought-tech-wasnt-for-me.html</link>
-        <guid isPermaLink="true">http://localhost:4000/why-i-thought-tech-wasnt-for-me.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Why I thought Tech Wasn't For Me</title>
-        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/blog/pineapple-supply-co.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus augue. In fringilla nibh ac efficitur blandit. Nullam eu pretium mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur vulputate lacinia tortor, vel ultrices ligula. Etiam hendrerit aliquam tristique. Nulla tincidunt tortor id quam dignissim fermentum.&lt;/p&gt;
-
-&lt;p&gt;Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dictum quam id ultricies dapibus. Donec rutrum pellentesque nisl, in bibendum erat imperdiet et. Maecenas eros lorem, dignissim in eros ut, consequat eleifend ante. Duis leo tortor, porttitor non ex ut, varius consectetur purus. Mauris vel erat risus. Nam convallis, lorem et tempus efficitur, nulla tortor efficitur sapien, ut pretium nisl turpis at purus. Nulla dui risus, suscipit nec tellus ac, aliquam finibus mi. Suspendisse accumsan, nisl a aliquet hendrerit, massa metus volutpat libero, et mollis lectus mauris et justo. Ut vitae est ut ligula sollicitudin blandit. Quisque egestas eleifend tortor, in finibus ex. Donec non orci quis odio porttitor mattis.&lt;/p&gt;
-
-&lt;p&gt;Duis ut blandit lorem. Suspendisse potenti. Donec maximus blandit neque dapibus hendrerit. Praesent dignissim turpis eu nisl varius tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur in volutpat felis. Sed eget neque vel risus fermentum maximus a vel arcu. Vivamus non lorem mattis, vehicula metus eu, pellentesque mauris. Nunc fermentum efficitur justo, et rutrum mi finibus non. Sed vehicula eros id elit elementum rhoncus. Nullam quis tellus vitae metus eleifend pharetra eget interdum nulla. Integer sit amet imperdiet urna.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 May 2017 10:05:23 -0700</pubDate>
-        <link>http://localhost:4000/why-i-thought-tech-wasnt-for-me.html</link>
-        <guid isPermaLink="true">http://localhost:4000/why-i-thought-tech-wasnt-for-me.html</guid>
-        
-        <pubDate>Sun, 07 May 2017 07:36:23 -0700</pubDate>
-        <link>http://localhost:4000/duis/2017/05/07/im-a-woman-of-color-in-tech.html</link>
-        <guid isPermaLink="true">http://localhost:4000/duis/2017/05/07/im-a-woman-of-color-in-tech.html</guid>
-                
-        
-      </item>
-    
-      <item>
-        
-        <title>I'm a Woman of Color in Tech</title>
-        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/blog/girl-jamie-brown.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dictum quam id ultricies dapibus. Donec rutrum pellentesque nisl, in bibendum erat imperdiet et. Maecenas eros lorem, dignissim in eros ut, consequat eleifend ante. Duis leo tortor, porttitor non ex ut, varius consectetur purus. Mauris vel erat risus. Nam convallis, lorem et tempus efficitur, nulla tortor efficitur sapien, ut pretium nisl turpis at purus. Nulla dui risus, suscipit nec tellus ac, aliquam finibus mi. Suspendisse accumsan, nisl a aliquet hendrerit, massa metus volutpat libero, et mollis lectus mauris et justo. Ut vitae est ut ligula sollicitudin blandit. Quisque egestas eleifend tortor, in finibus ex. Donec non orci quis odio porttitor mattis.&lt;/p&gt;
-
-&lt;p&gt;Duis ut blandit lorem. Suspendisse potenti. Donec maximus blandit neque dapibus hendrerit. Praesent dignissim turpis eu nisl varius tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur in volutpat felis. Sed eget neque vel risus fermentum maximus a vel arcu. Vivamus non lorem mattis, vehicula metus eu, pellentesque mauris. Nunc fermentum efficitur justo, et rutrum mi finibus non. Sed vehicula eros id elit elementum rhoncus. Nullam quis tellus vitae metus eleifend pharetra eget interdum nulla. Integer sit amet imperdiet urna.&lt;/p&gt;
-
-&lt;p&gt;Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.&lt;/p&gt;
-
-&lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 May 2017 07:36:23 -0700</pubDate>
-        <link>http://localhost:4000/duis/2017/05/07/im-a-woman-of-color-in-tech.html</link>
-        <guid isPermaLink="true">http://localhost:4000/duis/2017/05/07/im-a-woman-of-color-in-tech.html</guid>
-        
-        
-        <category>Duis</category>
-        
-      </item>
-    
-      <item>
         <title>Graduating Bootcamp: What Next?</title>
-        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/blog/work-harder.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/blog/work-harder.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
-</description>
-        <title>Graduating Bootcamp: What Next?</title>
-        <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/blog/work-harder.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;tldr&quot;&gt;TLDR&lt;/h3&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-arrow-circle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; You can’t learn everything, so be strategic&lt;br /&gt;
+&lt;i class=&quot;fa fa-arrow-circle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; What’s the least amount of new tech you can add to your plate giving you the biggest pay-off?&lt;br /&gt;
+&lt;i class=&quot;fa fa-arrow-circle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Be confident in your primary language&lt;br /&gt;
+&lt;i class=&quot;fa fa-arrow-circle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Come up with a schedule to keep yourself accountable&lt;br /&gt;
+&lt;i class=&quot;fa fa-arrow-circle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Join a coding community – because you’ll code better and possibly get a job&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
+&lt;h2 id=&quot;congrats-grad&quot;&gt;Congrats Grad!&lt;/h2&gt;
+
+&lt;p&gt;You survived! It’s been long days and longer nights. Sometimes your brain felt like a sieve – losing countless invaluable concepts and secrets – as you desperately tried to shovel everything back in. The fear of not being able to keep up was ever looming. By the time graduation hit, you and everyone in your program were exhausted and relieved. But, after you finished celebrating, that’s when you realized you were on your own. The training wheels had come off, and you were supposed to &lt;a href=&quot;http://www.bbc.com/news/magazine-34075407&quot;&gt;MacGyver&lt;/a&gt; yourself into a full-time job as a software engineer.&lt;/p&gt;
+
+&lt;p&gt;Since graduating from &lt;a href=&quot;http://www.devbootcamp.com&quot;&gt;Dev Bootcamp&lt;/a&gt; this past March, I find myself in MacGyver mode. My Bootcamp did a great job in stressing the importance of studying/building/networking immediately post-graduation. But, like many of my cohort, that didn’t stop me from flailing around trying to get myself oriented. What language(s) should I focus on? How much time should I spend applying to jobs? Networking, that’s a thing I need to do immediately, right? OMG ALGORITHMS?!?!?!?!&lt;/p&gt;
+
+&lt;p&gt;Let’s get real, &lt;strong&gt;you will not be able to learn everything.&lt;/strong&gt; You’re on a race to add expertise and new skills to your resume to make yourself more marketable. The more marketable you are, the faster you find a job. If you’re like me, getting hired soon rather than later is key (Money… you have to pay your bills with it). So, how do you tackle this?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slow down.&lt;/strong&gt; Time management is the biggest obstacle. Think of the time between your graduation and your first job as sacred. That’s when you get to build yourself up before venturing into the “real world.” So, with that mind-set, don’t try and cram everything in your head. Be strategic about what languages/tech you add on to your existing knowledge. If you think it will make the difference between multiple recruiters calling you for an interview or not, it’s worth your time. If it doesn’t add to your marketability, bookmark it if it interests you, but if you’re actively job seeking there’s bigger fish to fry.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Take a look at several jobs that interest you, and figure out what the common tech stack is.&lt;/strong&gt; If a language pops up again and again, find a free workshop, buy a book, or sign up for an e-course. But, don’t think that you have to learn every language under the sun. Better to be secure in your primary language and make advances in a few others than spread yourself too thin and have nothing to show for it. Knowing a lot about a lot of things is great, but if you can’t solve a simple coding challenge in your primary language, knowing that obscure fact about {insert new-fangled language here} isn’t going to save the day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Use a calendar and come up with a daily or weekly schedule.&lt;/strong&gt; The more you pretend this self-study is your full-time job, the better you’ll be at accomplishing your tasks. Even if you veer off from your schedule, keeping one and checking in with yourself will give you accountability.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Get some friends!&lt;/strong&gt; Hopefully, you connected with your Bootcamp cohort. If not, find a community of other programmers. There are endless reasons to do this but I’ll list a few for the highly anti-social: get help with bugs, learn new tricks from your new friends, build projects with people (looks good on the resume), networking &lt;strong&gt;(people will literally give you jobs if you show up places… show up!).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;These are my top recommendations for how to get yourself oriented post-graduation. I’ll get more in-depth on some of this in future posts. &amp;lt;3&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 May 2017 07:36:23 -0700</pubDate>
         <link>http://localhost:4000/2017/05/01/graduated-what-next.html</link>
