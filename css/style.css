@@ -378,6 +378,10 @@
 				line-height: 1em;
 			}
 
+			.icon.featured.fa-check {
+				color: #5FD2CD;
+			}
+
 		.icon > .label {
 			display: none;
 		}
