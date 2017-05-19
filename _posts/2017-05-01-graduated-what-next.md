@@ -5,10 +5,9 @@ date:   2017-05-01 14:36:23
 ---
 
 <span class="image featured"><img src="/images/blog/work-harder.jpg" alt=""></span>
-
 > ### TLDR
 ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> You can’t learn everything, so be strategic  
-><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> What’s the least amount of new tech you can add to your plate giving you the biggest pay-off?  
+><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Don't add on new tech unless it's going to pay-off  
 ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Be confident in your primary language  
 ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Come up with a schedule to keep yourself accountable  
 ><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Join a coding community – because you’ll code better and possibly get a job
